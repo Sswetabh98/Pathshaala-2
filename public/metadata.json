@@ -1,0 +1,10 @@
+{
+  "name": "Pathshaala - AI-Powered Tutoring Platform",
+  "description": "A comprehensive marketplace for teachers and students, featuring AI-powered tools for test generation, evaluation, video analysis, real-time transcription, a research assistant, and a virtual classroom environment.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "display-capture",
+    "geolocation"
+  ]
+}
